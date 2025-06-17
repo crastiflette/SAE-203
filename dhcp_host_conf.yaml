@@ -1,0 +1,7 @@
+
+
+dhcp_hosts_cfg : /etc/dnsmasq.d/hosts.conf
+user : sae203
+dhcp-servers : 
+  192.168.122.101: 192.168.122.0/24
+  

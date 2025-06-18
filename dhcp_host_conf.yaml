@@ -1,4 +1,4 @@
-
+#Exemple de fichier de configuration YAML
 
 dhcp_hosts_cfg : /etc/dnsmasq.d/hosts.conf
 user : sae203
